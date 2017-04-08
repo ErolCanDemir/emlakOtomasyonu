@@ -1,0 +1,5 @@
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertLibrary\bin\Debug\AdvertLibrary.dll
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertLibrary\bin\Debug\AdvertLibrary.pdb
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertLibrary\obj\Debug\AdvertLibrary.csprojResolveAssemblyReference.cache
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertLibrary\obj\Debug\AdvertLibrary.dll
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertLibrary\obj\Debug\AdvertLibrary.pdb

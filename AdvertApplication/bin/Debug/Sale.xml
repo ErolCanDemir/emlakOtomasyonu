@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<houses>
+  <house>
+    <id>105</id>
+    <rooms>1</rooms>
+    <floor>5</floor>
+    <state>AKSARAY</state>
+    <area>4</area>
+    <constructionDate>03.11.2016 00:00:00</constructionDate>
+    <status>False</status>
+    <houseType>Apartment</houseType>
+    <salePrice>180000</salePrice>
+  </house>
+  <house>
+    <id>315</id>
+    <rooms>2</rooms>
+    <floor>3</floor>
+    <state>MENGEN</state>
+    <area>92</area>
+    <constructionDate>31.12.2013 00:00:00</constructionDate>
+    <status>False</status>
+    <houseType>Apartment</houseType>
+    <salePrice>120000</salePrice>
+  </house>
+</houses>

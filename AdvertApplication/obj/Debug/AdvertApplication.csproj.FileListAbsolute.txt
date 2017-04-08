@@ -1,0 +1,17 @@
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.csprojResolveAssemblyReference.cache
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.LoginForm.resources
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.Properties.Resources.resources
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.csproj.GenerateResource.Cache
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\AdvertApplication.exe.config
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\AdvertApplication.exe
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\AdvertApplication.pdb
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.exe
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.pdb
+c:\users\seymasarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.AdvertsForm.resources
+C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\users.txt
+C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\Rent.xml
+C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\Sale.xml
+C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\AdvertLibrary.dll
+C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\AdvertLibrary.pdb
+C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\obj\Debug\AdvertApplication.AdvertAdd.resources
+C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug\cities.xml

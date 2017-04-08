@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<houses>
+  <house>
+    <id>210</id>
+    <rooms>5</rooms>
+    <floor>6</floor>
+    <state>HOPA</state>
+    <area>100</area>
+    <constructionDate>03.11.2016 00:00:00</constructionDate>
+    <status>True</status>
+    <houseType>Dublex</houseType>
+    <rentPrice>600</rentPrice>
+    <deposit>1200</deposit>
+  </house>
+</houses>

@@ -1,0 +1,116 @@
+[03.11.2016 09:34:09] [INIT] Created log file
+[03.11.2016 09:34:09] [PROCESS] Started application
+[03.11.2016 09:34:09] [FILE] Loaded Sale.xml!
+[03.11.2016 09:34:09] [FILE] Loaded Rent.xml!
+[03.11.2016 09:34:09] [FILE] Loaded cities.xml!
+[03.11.2016 09:34:09] [FILE] Loaded Sale.xml!
+[03.11.2016 09:34:09] [FILE] Loaded Rent.xml!
+[03.11.2016 09:38:08] [ACTION] Archived advert 0
+[03.11.2016 09:38:08] [FILE] Cleared Rent.xml
+[03.11.2016 09:38:08] [FILE] Cleared Sale.xml
+[03.11.2016 09:38:08] [FILE] Saved Rent.xml!
+[03.11.2016 09:38:08] [FILE] Saved Sale.xml!
+[03.11.2016 09:38:08] [FILE] Loaded Sale.xml!
+[03.11.2016 09:38:08] [FILE] Loaded Rent.xml!
+[03.11.2016 09:38:36] [FILE] Created new directory: C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug/photos/105
+[03.11.2016 09:38:36] [ACTION] Created sale advert 105 with 1 rooms
+[03.11.2016 09:38:36] [FILE] Inserted new advert in Sale.xml file
+[03.11.2016 09:38:36] [FILE] Loaded Sale.xml!
+[03.11.2016 09:38:36] [FILE] Loaded Rent.xml!
+[03.11.2016 09:39:13] [PROCESS] C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug/photos/105 folder has been opened
+[03.11.2016 09:39:23] [ACTION] Edited sale advert 105 with 1 rooms
+[03.11.2016 09:39:23] [FILE] Cleared Rent.xml
+[03.11.2016 09:39:23] [FILE] Cleared Sale.xml
+[03.11.2016 09:39:23] [FILE] Saved Rent.xml!
+[03.11.2016 09:39:24] [FILE] Saved Sale.xml!
+[03.11.2016 09:39:24] [FILE] Loaded Sale.xml!
+[03.11.2016 09:39:24] [FILE] Loaded Rent.xml!
+[03.11.2016 10:18:29] [PROCESS] Started application
+[03.11.2016 10:18:29] [FILE] Loaded Sale.xml!
+[03.11.2016 10:18:29] [FILE] Loaded Rent.xml!
+[03.11.2016 10:18:29] [FILE] Loaded cities.xml!
+[03.11.2016 10:18:30] [FILE] Loaded Sale.xml!
+[03.11.2016 10:18:30] [FILE] Loaded Rent.xml!
+[03.11.2016 10:18:39] [PROCESS] C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug/photos/105 folder has been opened
+[03.11.2016 10:19:02] [ACTION] Deleted advert 0
+[03.11.2016 10:19:02] [FILE] Cleared Rent.xml
+[03.11.2016 10:19:02] [FILE] Cleared Sale.xml
+[03.11.2016 10:19:02] [FILE] Saved Rent.xml!
+[03.11.2016 10:19:02] [FILE] Saved Sale.xml!
+[03.11.2016 10:19:02] [FILE] Loaded Sale.xml!
+[03.11.2016 10:19:02] [FILE] Loaded Rent.xml!
+[03.11.2016 10:19:19] [ACTION] Edited sale advert 105 with 1 rooms
+[03.11.2016 10:19:19] [FILE] Cleared Rent.xml
+[03.11.2016 10:19:19] [FILE] Cleared Sale.xml
+[03.11.2016 10:19:19] [FILE] Saved Rent.xml!
+[03.11.2016 10:19:19] [FILE] Saved Sale.xml!
+[03.11.2016 10:19:19] [FILE] Loaded Sale.xml!
+[03.11.2016 10:19:19] [FILE] Loaded Rent.xml!
+[03.11.2016 10:19:29] [ACTION] Edited sale advert 105 with 1 rooms
+[03.11.2016 10:19:29] [FILE] Cleared Rent.xml
+[03.11.2016 10:19:29] [FILE] Cleared Sale.xml
+[03.11.2016 10:19:29] [FILE] Saved Rent.xml!
+[03.11.2016 10:19:29] [FILE] Saved Sale.xml!
+[03.11.2016 10:19:29] [FILE] Loaded Sale.xml!
+[03.11.2016 10:19:29] [FILE] Loaded Rent.xml!
+[03.11.2016 10:19:52] [FILE] Loaded Sale.xml!
+[03.11.2016 10:19:52] [FILE] Loaded Rent.xml!
+[03.11.2016 10:20:04] [ACTION] Advert search form submitted
+[03.11.2016 10:20:22] [ACTION] Advert search form submitted
+[03.11.2016 10:24:38] [PROCESS] Started application
+[03.11.2016 10:24:38] [FILE] Loaded Sale.xml!
+[03.11.2016 10:24:38] [FILE] Loaded Rent.xml!
+[03.11.2016 10:24:38] [FILE] Loaded cities.xml!
+[03.11.2016 10:24:39] [FILE] Loaded Sale.xml!
+[03.11.2016 10:24:39] [FILE] Loaded Rent.xml!
+[03.11.2016 10:24:48] [PROCESS] C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug/photos/105 folder has been opened
+[03.11.2016 10:25:51] [FILE] Created new directory: C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug/photos/210
+[03.11.2016 10:25:51] [FILE] Inserted new advert in Rent.xml file
+[03.11.2016 10:25:51] [FILE] Loaded Sale.xml!
+[03.11.2016 10:25:51] [FILE] Loaded Rent.xml!
+[03.11.2016 10:25:55] [PROCESS] C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug/photos/210 folder has been opened
+[03.11.2016 10:26:00] [FILE] Loaded Sale.xml!
+[03.11.2016 10:26:00] [FILE] Loaded Rent.xml!
+[03.11.2016 10:27:52] [FILE] Created new directory: C:\Users\SeymaSarigil\documents\visual studio 2015\Projects\AdvertLibrary\AdvertApplication\bin\Debug/photos/315
+[03.11.2016 10:27:53] [ACTION] Created sale advert 315 with 2 rooms
+[03.11.2016 10:27:53] [FILE] Inserted new advert in Sale.xml file
+[03.11.2016 10:27:53] [FILE] Loaded Sale.xml!
+[03.11.2016 10:27:53] [FILE] Loaded Rent.xml!
+[03.11.2016 10:27:58] [FILE] Loaded Sale.xml!
+[03.11.2016 10:27:58] [FILE] Loaded Rent.xml!
+[03.11.2016 14:00:08] [PROCESS] Started application
+[03.11.2016 14:00:08] [FILE] Loaded Sale.xml!
+[03.11.2016 14:00:08] [FILE] Loaded Rent.xml!
+[03.11.2016 14:00:08] [FILE] Loaded cities.xml!
+[03.11.2016 14:00:16] [LOGIN] serif-e has been logged in
+[03.11.2016 14:00:17] [FILE] Loaded Sale.xml!
+[03.11.2016 14:00:17] [FILE] Loaded Rent.xml!
+[03.11.2016 14:00:37] [FILE] Loaded Sale.xml!
+[03.11.2016 14:00:37] [FILE] Loaded Rent.xml!
+[03.11.2016 14:01:36] [PROCESS] Started application
+[03.11.2016 14:01:36] [FILE] Loaded Sale.xml!
+[03.11.2016 14:01:36] [FILE] Loaded Rent.xml!
+[03.11.2016 14:01:37] [FILE] Loaded cities.xml!
+[03.11.2016 14:01:42] [LOGIN] serif-e has been logged in
+[03.11.2016 14:01:42] [FILE] Loaded Sale.xml!
+[03.11.2016 14:01:42] [FILE] Loaded Rent.xml!
+[03.11.2016 14:01:54] [FILE] Loaded Sale.xml!
+[03.11.2016 14:01:54] [FILE] Loaded Rent.xml!
+[03.11.2016 14:02:15] [PROCESS] Started application
+[03.11.2016 14:02:15] [FILE] Loaded Sale.xml!
+[03.11.2016 14:02:15] [FILE] Loaded Rent.xml!
+[03.11.2016 14:02:15] [FILE] Loaded cities.xml!
+[03.11.2016 14:02:21] [LOGIN] serif-e has been logged in
+[03.11.2016 14:02:22] [FILE] Loaded Sale.xml!
+[03.11.2016 14:02:22] [FILE] Loaded Rent.xml!
+[03.11.2016 14:02:37] [FILE] Loaded Sale.xml!
+[03.11.2016 14:02:37] [FILE] Loaded Rent.xml!
+[03.11.2016 14:03:39] [PROCESS] Started application
+[03.11.2016 14:03:39] [FILE] Loaded Sale.xml!
+[03.11.2016 14:03:39] [FILE] Loaded Rent.xml!
+[03.11.2016 14:03:39] [FILE] Loaded cities.xml!
+[03.11.2016 14:03:44] [LOGIN] serif-e has been logged in
+[03.11.2016 14:03:44] [FILE] Loaded Sale.xml!
+[03.11.2016 14:03:44] [FILE] Loaded Rent.xml!
+[03.11.2016 14:03:56] [FILE] Loaded Sale.xml!
+[03.11.2016 14:03:56] [FILE] Loaded Rent.xml!
